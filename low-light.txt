@@ -1,0 +1,360 @@
+---- SENSOR READINGS ----
+LDR  raw: 325 | V: 1.048 V | Brightness: 31.8 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.97 C | HUM: 33.57 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 323 | V: 1.042 V | Brightness: 31.6 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.57 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 324 | V: 1.045 V | Brightness: 31.7 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 33.58 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 326 | V: 1.052 V | Brightness: 31.9 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.68 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 34.04 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 34.40 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 328 | V: 1.058 V | Brightness: 32.1 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.97 C | HUM: 34.61 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 620 | V: 2.000 V | Gas Level: 60.6 %
+TEMP: 18.98 C | HUM: 34.67 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 325 | V: 1.048 V | Brightness: 31.8 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.97 C | HUM: 34.52 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 326 | V: 1.052 V | Brightness: 31.9 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 34.34 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.98 C | HUM: 34.17 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 325 | V: 1.048 V | Brightness: 31.8 %
+GAS  raw: 615 | V: 1.984 V | Gas Level: 60.1 %
+TEMP: 18.98 C | HUM: 34.06 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 324 | V: 1.045 V | Brightness: 31.7 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 33.97 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 321 | V: 1.035 V | Brightness: 31.4 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.91 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 321 | V: 1.035 V | Brightness: 31.4 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.84 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 322 | V: 1.039 V | Brightness: 31.5 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.83 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 325 | V: 1.048 V | Brightness: 31.8 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.81 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 326 | V: 1.052 V | Brightness: 31.9 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.78 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.00 C | HUM: 33.78 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 326 | V: 1.052 V | Brightness: 31.9 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.83 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.86 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.98 C | HUM: 33.93 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 325 | V: 1.048 V | Brightness: 31.8 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 33.95 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 323 | V: 1.042 V | Brightness: 31.6 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.97 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 324 | V: 1.045 V | Brightness: 31.7 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.97 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 325 | V: 1.048 V | Brightness: 31.8 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 33.95 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 325 | V: 1.048 V | Brightness: 31.8 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.93 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 323 | V: 1.042 V | Brightness: 31.6 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.93 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 323 | V: 1.042 V | Brightness: 31.6 %
+GAS  raw: 616 | V: 1.987 V | Gas Level: 60.2 %
+TEMP: 18.98 C | HUM: 33.89 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 324 | V: 1.045 V | Brightness: 31.7 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 33.84 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.98 C | HUM: 33.84 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 326 | V: 1.052 V | Brightness: 31.9 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.84 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 328 | V: 1.058 V | Brightness: 32.1 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.97 C | HUM: 33.83 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.97 C | HUM: 33.78 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 327 | V: 1.055 V | Brightness: 32.0 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 33.83 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 50 | V: 0.161 V | Brightness: 4.9 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.97 C | HUM: 34.15 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 20 | V: 0.065 V | Brightness: 2.0 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 34.59 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.98 C | HUM: 34.74 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.98 C | HUM: 34.89 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 34.99 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 34.86 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 34.74 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 18.98 C | HUM: 34.61 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 18.98 C | HUM: 34.52 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.00 C | HUM: 34.42 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 16 | V: 0.052 V | Brightness: 1.6 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 34.30 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 34.15 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 617 | V: 1.990 V | Gas Level: 60.3 %
+TEMP: 19.00 C | HUM: 34.04 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 16 | V: 0.052 V | Brightness: 1.6 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.00 C | HUM: 33.97 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.01 C | HUM: 33.93 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.89 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.83 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.78 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.74 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.00 C | HUM: 33.71 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 18.98 C | HUM: 33.70 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.65 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 620 | V: 2.000 V | Gas Level: 60.6 %
+TEMP: 19.00 C | HUM: 33.65 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.00 C | HUM: 33.63 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.01 C | HUM: 33.61 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.01 C | HUM: 33.58 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 15 | V: 0.048 V | Brightness: 1.5 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.00 C | HUM: 33.58 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.01 C | HUM: 33.57 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 616 | V: 1.987 V | Gas Level: 60.2 %
+TEMP: 19.00 C | HUM: 33.55 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 620 | V: 2.000 V | Gas Level: 60.6 %
+TEMP: 19.01 C | HUM: 33.53 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 12 | V: 0.039 V | Brightness: 1.2 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.01 C | HUM: 33.50 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.01 C | HUM: 33.50 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.00 C | HUM: 33.50 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 14 | V: 0.045 V | Brightness: 1.4 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.00 C | HUM: 33.48 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.01 C | HUM: 33.48 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 618 | V: 1.994 V | Gas Level: 60.4 %
+TEMP: 19.01 C | HUM: 33.46 %RH
+
+---- SENSOR READINGS ----
+LDR  raw: 13 | V: 0.042 V | Brightness: 1.3 %
+GAS  raw: 619 | V: 1.997 V | Gas Level: 60.5 %
+TEMP: 19.01 C | HUM: 33.46 %RH
+
